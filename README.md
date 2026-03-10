@@ -94,7 +94,7 @@ The server will print your local network IP on startup — share it with any dev
 #### `POST /register` — Create a new account
 ```json
 {
-  "name": "Krish Patel",
+  "name": "Krish Mahato",
   "username": "krish",
   "password": "pass123",
   "email": "krish@example.com"
